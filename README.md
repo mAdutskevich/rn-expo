@@ -1,1 +1,1 @@
-# rn-storybook project
+# rn-expo project
